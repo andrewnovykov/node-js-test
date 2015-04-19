@@ -10,6 +10,7 @@ var petya = new  User("Петя");
 vasya.hello(petya);
 
 log(db.getPhrase("Run successful"));
+//log(db.getPhrase("Run successful"));
 
 }
 
